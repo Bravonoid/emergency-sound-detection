@@ -43,8 +43,8 @@ All the classifiers are trained with the same training set and tested with the s
 
 | Classifier             | Cross Validation Accuracy | Testing Accuracy |
 | ---------------------- | ------------------------- | ---------------- |
-| Random Forest          | 0.966875                  | 0.97250          |
-| Decision Tree          | 0.950312                  | 0.96250          |
+| Random Forest          | 0.964375                  | 0.97500          |
+| Decision Tree          | 0.950625                  | 0.96375          |
 | Support Vector Machine | 0.942812                  | 0.94875          |
 | LogisticRegression     | 0.915312                  | 0.91375          |
 | Naive Bayes            | 0.824687                  | 0.82625          |
@@ -57,3 +57,4 @@ The result shows that the Random Forest classifier has the best performance. The
 
 1. [Emergency Vehicle Siren Sounds](https://www.kaggle.com/datasets/vishnu0399/emergency-vehicle-siren-sounds)
 2. [Environmental Sound Classification 50](https://www.kaggle.com/datasets/mmoreaux/environmental-sound-classification-50)
+3. [Librosa](https://librosa.org/doc/latest/index.html)
